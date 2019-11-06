@@ -15,15 +15,15 @@
     "visualizations"
   ],
   "author": {
-    "name": "Juned Chhipa",
-    "email": "juned.chhipa@gmail.com"
+    "name": "Jannes Beterams",
+    "email": "jannesbeterams@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/apexcharts/vue-apexcharts/issues"
+    "url": "https://github.com/JBJannes/vue-apexcharts/issues"
   },
   "license": "MIT",
   "peerDependencies": {
-    "apexcharts": "^3.6.6"
+    "apexcharts": "git://github.com/JBJannes/JBJannes/apexcharts.js"
   },
   "devDependencies": {
     "@babel/core": "^7.4.0",
